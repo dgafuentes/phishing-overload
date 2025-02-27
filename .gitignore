@@ -1,0 +1,5 @@
+.venv/
+phishing_overload.egg-info/*
+build/*
+*.log
+*.txt
